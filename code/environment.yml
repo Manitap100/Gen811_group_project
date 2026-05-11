@@ -1,0 +1,22 @@
+name: leafcutter_gen811
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+
+dependencies:
+  - python=3.9
+  - pandas
+  - numpy
+  - matplotlib
+  - seaborn
+  - biopython
+  - samtools
+  - bedtools
+  - regtools
+  - r-base
+  - r-optparse
+  - bioconductor-edger
+  - pip
+  - pip:
+    - leafcutter
