@@ -1,8 +1,8 @@
 # Alternative Splicing Analysis in *Toxoplasma gondii* BDP1 Knockdown
 
 ## Authors
-Yangfanxu  
-GEN811 Bioinformatics, University of New Hampshire  
+Yangfanxu  Manita Pariyar
+GEN811
 May 2026
 
 ## Background
